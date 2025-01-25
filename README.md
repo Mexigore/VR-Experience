@@ -10,3 +10,5 @@ Some functions are still missing from the hospital section:
 - Sockets for objects
 - Connect rooms
 - Working doors
+
+The Tutorial used for this project: https://learn.unity.com/course/create-with-vr?uv=2022.3
